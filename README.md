@@ -1,2 +1,2 @@
 # Machine-Learning
-The projects I do using Pytorch, Keras, Tensorflow, scikit-learn, Python
+My projects, kaggle competitions, implementation of some popular ML algorithms and  research papers including both published as well as the reading list can be found here. 
